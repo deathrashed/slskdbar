@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Resources/graf-banner-slskd.png" alt="deemon" width="">
+</p>
+<p align="center">
+  <a href="https://github.com/slskd/slskd">
+    <img src="https://custom-icon-badges.demolab.com/badge/slskd-repo-03a6ff?style=for-the-badge&logoColor=&logo=slskd-color-icon" alt="Deemix Downloader">
+  </a>
+  <a href="">
+    <img src="https://custom-icon-badges.demolab.com/badge/platform-macos-03a6ff?style=for-the-badge&logoColor=&logo=apple" alt="">
+
 # slskdbar
 
 slskdbar is a lightweight native macOS menu bar companion for
